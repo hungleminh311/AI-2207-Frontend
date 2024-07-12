@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "Launching in 2024! Join us for the grand opening of our new gambling platform.",
+        "linkText": "Learn more \u0026 Get Ready"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Engineering innovative solutions that make every gamble smarter and smoother. Join us in revolutionizing the gaming world!",
+        "title": "Spin the Future with Cutting-Edge Casino Tech"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Engineering innovative solutions that make every gamble smarter and smoother. Join us in revolutionizing the gaming world!",
+        "title": "Spin the Future with Cutting-Edge Casino Tech"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Engineering innovative solutions that make every gamble smarter and smoother. Join us in revolutionizing the gaming world!",
+        "title": "Spin the Future with Cutting-Edge Casino Tech"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Engineering innovative solutions that make every gamble smarter and smoother. Join us in revolutionizing the gaming world!",
+        "title": "Spin the Future with Cutting-Edge Casino Tech"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Engineering innovative solutions that make every gamble smarter and smoother. Join us in revolutionizing the gaming world!",
+        "title": "Spin the Future with Cutting-Edge Casino Tech"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Engineering innovative solutions that make every gamble smarter and smoother. Join us in revolutionizing the gaming world!",
+        "title": "Spin the Future with Cutting-Edge Casino Tech"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Engineering innovative solutions that make every gamble smarter and smoother. Join us in revolutionizing the gaming world!",
+        "title": "Spin the Future with Cutting-Edge Casino Tech"
+      }
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Spin the Future with Cutting-Edge Casino Tech",
+  "subtitle": "Engineering innovative solutions that make every gamble smarter and smoother. Join us in revolutionizing the gaming world!"
+}
